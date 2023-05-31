@@ -1,4 +1,4 @@
-package com.example.demobisect.service;
+package com.example.demobisect.api;
 
 import lombok.AllArgsConstructor;
 import org.springframework.core.env.Environment;
